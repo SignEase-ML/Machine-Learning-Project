@@ -37,13 +37,17 @@ To address these challenges, we have designed **SignEase**, a technology-based a
   - **GitHub:** [https://github.com/heyZra](v)
 
 ### Topic and Motivation
+This project focuses on using image classification to recognize and classify American Sign Language (ASL) gestures. It features an interactive interface where users can practice ASL gestures and receive immediate feedback on accuracy. Quiz features are available for users to test their understanding.
+
+The application aims to enhance ASL education by leveraging image classification technology, making learning more accessible for individuals with hearing and speech impairments. It seeks to improve the efficiency and effectiveness of ASL learning for all users interested in sign language education.
+
 The motivation behind  SignEase stems from the desire to bridge the communication gap for individuals with hearing and speech impairments. Sign language is a vital form of communication for this community, yet resources for learning can be limited and inaccessible. By developing a machine learning application that teaches sign language in an engaging and interactive manner, we aim to empower individuals with hearing and speech impairments to learn and communicate effectively.
 
 Cooperate with one another in goodness and righteousness, and do not cooperate in sin and transgression. And be mindful of Allah. Surely Allah is severe in punishment. – **(Q.S Al-Maidah: 2)**
 
 
 ### Target User Group
-SignEaser is designed for individuals with hearing and speech impairments who are interested in learning sign language. The application is suitable for users of all ages and backgrounds who wish to improve their communication skills and broaden their understanding of sign language.
+This platform allows users to practice ASL gestures with real-time feedback using image classification technology for precise recognition. It caters to users of all ages and backgrounds seeking to enhance communication skills and learn sign language effectively. Features include quizzes and resources for reinforcing ASL proficiency, offering immediate feedback to aid improvement.
 
 ### Proposed Solution
 
@@ -51,7 +55,7 @@ SignEaser is designed for individuals with hearing and speech impairments who ar
 The product will be branded as "SignEase," symbolizing its goal of making sign language communication easier and more accessible for everyone.
 
 #### Description
-"SignEase" offers a comprehensive platform for learning sign language through interactive lessons, quizzes, and practice exercises. The application uses machine learning algorithms to interpret and analyze users' sign language gestures, providing real-time feedback and suggestions for improvement. By incorporating gamification elements and personalized learning paths, SignEase aims to make the learning process engaging, effective, and enjoyable
+SignEase provides a comprehensive platform for learning sign language, offering interactive lessons, quizzes, and practice exercises. It uses machine learning to interpret users' gestures, offering real-time feedback and personalized suggestions. With gamification elements and tailored learning paths, SignEase makes sign language learning engaging, effective, and enjoyable.
 
 #### How This Project Relates to SDGs
 This project aligns with several Sustainable Development Goals (SDGs), including:
