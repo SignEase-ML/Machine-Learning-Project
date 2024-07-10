@@ -1,7 +1,7 @@
 # Sign Language Learning Application
 
 <div align="center">
-  <img src="logo.jpg" classname='' alt="alt text" width="80%" height='40%'>
+  <img src="logo.jpg" classname='' alt="alt text" width="35%">
 </div>
 
 ### Overview
