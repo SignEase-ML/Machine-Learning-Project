@@ -8,7 +8,7 @@ Notebook ini memanfaatkan **YOLOv8** untuk melakukan deteksi bahasa isyarat dari
 
 * **Dataset:**
 
-  * Dataset disimpan di Google Drive, berisi gambar gesture tangan per huruf.
+  * Dataset disimpan di Kaggle, berisi gambar gesture tangan per huruf.
   * Struktur dataset mengikuti format YOLO:
 
     ```
